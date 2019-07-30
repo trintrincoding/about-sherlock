@@ -1,0 +1,11 @@
+body{
+    font-family: 'Amatic SC', cursive;
+    font-size: larger;
+    background-color: purple;
+    margin: 200px 200px 200px 200px;
+}
+
+
+strong{
+    font-family: 'Lobster', cursive;
+}
